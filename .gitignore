@@ -1,4 +1,4 @@
-.o
-.orig
+*.o
+*.orig
 st
-.rej
+*.rej
