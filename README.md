@@ -14,7 +14,9 @@
 - [scrollback](https://st.suckless.org/patches/scrollback/) (All patches)
 
 Font: Meslo Nerd Font
+
 Size: 16
+
 Theme: One Half Dark (From the [colorschemes](https://st.suckless.org/patches/colorschemes/) patch)
 
 ## Requirements
